@@ -1,2 +1,3 @@
 Ceci est un test
-Deuxi�me test
+Deuxième test
+Troisième test.
